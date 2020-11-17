@@ -3,7 +3,7 @@
     {
       id: 1,
       url:
-      "https://data00.chiasenhac.com/downloads/1836/6/1835073-daa7ada4/32/Rendezvous%20-%20DEAMN.m4a",
+      "https://file-am-thanh.vercel.app/Rendezvous.mp3",
       author: "DEAM",
       title: "Rendezvous",
       cover:
@@ -57,7 +57,7 @@
     {
       id: 7,
       url:
-      "https://data3.chiasenhac.com/downloads/1804/6/1803658-4a4cb398/32/Give%20Me%20Your%20Love%20-%20DEAMN.m4a",
+      "https://file-am-thanh.vercel.app/Give%20Me%20Your%20Love.mp3",
       author: "DEAM",
       title: "Give me your love ",
       cover:
@@ -66,7 +66,7 @@
     {
       id: 8,
       url:
-      "https://data34.chiasenhac.com/downloads/1944/6/1943640-776a4747/32/Happier%20-%20Marshmello_%20Bastille.m4a",
+      "https://file-am-thanh.vercel.app/Happier.mp3",
       author: "Marshmello ft.Bastille",
       title: "Happier",
       cover:
@@ -91,7 +91,7 @@
     {
          id: 11,
       url:
-      "https://data20.chiasenhac.com/downloads/2083/6/2082120-dc7b8839/32/Perfect%20-%20Ed%20Sheeran.m4a",
+      "https://file-am-thanh.vercel.app/Perfect%20(Ed%20Sheeran%20Cover).mp3",
       author: "Ed Sheeran",
       title: "Perfect",
       cover:
@@ -99,7 +99,7 @@
     {
          id: 12,
       url:
-      "https://data38.chiasenhac.com/downloads/1916/6/1915227-4afa47d7/32/Let%20Me%20Down%20Slowly%20-%20Alec%20Benjamin.m4a",
+      "https://file-am-thanh.vercel.app/Let%20Me%20Down%20Slowly%20Cover.mp3",
       author: "Alec Benjamin",
       title: "Let me down slowly",
       cover:
@@ -115,7 +115,7 @@
     {
           id: 14,
       url:
-      "https://data00.chiasenhac.com/downloads/1816/6/1815149-f23f9955/32/Without%20You%20-%20Avicii_%20Sandro%20Cavazza.m4a",
+      "https://file-am-thanh.vercel.app/Without%20You.mp3",
       author: "Avicii",
       title: "without you",
       cover:
