@@ -30,7 +30,7 @@
         padding: 0;
         min-width: 100vw;
         min-height: 100vh;
-        background-image:url(https://indainam.com/wp-content/uploads/2017/10/mau-background-don-gian-01-1024x640.jpg) ;
+        background-image:url(https://img3.thuthuatphanmem.vn/uploads/2019/10/08/hinh-anh-background-dep-don-gian_102938083.jpg) ;
       }
       
       div,
@@ -58,12 +58,13 @@
         display: -webkit-box;
         display: flex;
         box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.3);
-        max-height: 290px;
+        max-height: 890px;
       }
       
       .album-cover {
         -webkit-box-flex: 1;
                 flex: 1 0 30%;
+                height:500px;
       }
       .album-cover img {
         width: 100%;
@@ -73,14 +74,14 @@
       .arrow {
         position: absolute;
         top: calc(50% - 2.5em);
-        background: rgba(255, 255, 255, 0.3);
+        background: rgba(194, 32, 194, 0.3);
         border: 0;
         width: 5em;
         height: 5em;
         cursor: pointer;
       }
       .arrow:hover {
-        background: rgba(255, 255, 255, 0.5);
+        background: rgba(218, 38, 218, 0.5);
       }
       .arrow img {
         display: block;
@@ -208,9 +209,10 @@
           -webkit-box-direction: normal;
                   flex-flow: column wrap;
           max-height: inherit;
-          max-width: 270px;
+          max-width: 100%;
           margin: 0 auto;
           overflow: auto;
+          height:500px;
         }
       
         .music-player {
@@ -228,7 +230,7 @@
           position: relative;
           -webkit-box-flex: 1;
                   flex: 1 1 100%;
-          max-width: 270px;
+          max-width:100%;
           max-height: 270px;
         }
       
@@ -239,10 +241,10 @@
           height: 3em;
         }
         .arrow.left {
-          left: 0;
+          left: 0;background-color: #fff;
         }
         .arrow.right {
-          right: 0;
+          right: 0;background-color: #fff;
         }
       
         .music-control__play {

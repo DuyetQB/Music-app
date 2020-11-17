@@ -25,7 +25,7 @@
       author: "Alan Walker",
       title: "Nowhere",
       cover:
-      "https://xinhgai.tv/wp-content/uploads/2020/03/Gai-xinh-nhieu-the-loai-7.jpg" },
+      "https://images.unsplash.com/photo-1605462039019-035bed21c5ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" },
   
     {
       id: 4,
@@ -61,7 +61,7 @@
       author: "DEAM",
       title: "Give me your love ",
       cover:
-      "https://xinhgai.tv/wp-content/uploads/2020/03/Gai-xinh-nhieu-the-loai-7.jpg" },
+      "https://images.unsplash.com/photo-1605445070167-64f15c9e8b23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" },
   
     {
       id: 8,
