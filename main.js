@@ -70,7 +70,7 @@
       author: "Marshmello ft.Bastille",
       title: "Happier",
       cover:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXfs6Q5I0am5noHS2AMlnjIFSrtmmDYFTWMA&usqp=CAU" },
+      "https://images.unsplash.com/photo-1605532211907-3c431aeaa32c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" },
   
     {
       id: 9,
@@ -95,7 +95,7 @@
       author: "Ed Sheeran",
       title: "Perfect",
       cover:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTB3lfN5vGaVfp924CqKSEknCt3oEBPCI2l9w&usqp=CAU" },
+      "https://images.unsplash.com/photo-1605274280779-a4732e176f4b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" },
     {
          id: 12,
       url:
@@ -107,7 +107,7 @@
     {
          id: 13,
       url:
-      "https://data37.chiasenhac.com/downloads/1875/6/1874524-c7f76b3c/32/Without%20You%20-%20DEAMN.m4a",
+      "https://file-am-thanh.vercel.app/Without%20You2.mp3",
       author: "DEAM",
       title: "without you",
       cover:
