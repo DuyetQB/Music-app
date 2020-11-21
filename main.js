@@ -127,7 +127,48 @@
       author: "Hega, Pegato",
       title: "I want you to know",
       cover:
-      "https://kynguyenlamdep.com/wp-content/uploads/2020/01/hinh-anh-dep-hoa-bo-cong-anh-700x466.jpg" }];
+      "https://kynguyenlamdep.com/wp-content/uploads/2020/01/hinh-anh-dep-hoa-bo-cong-anh-700x466.jpg" },
+
+        {
+      id: 16,
+      url:
+      "https://file-am-thanh.vercel.app/Fractures%20-%20Illenium_%20Nevve.mp3",
+      author: "IIIenium",
+      title: "Fractures",
+      cover:
+      "https://images.unsplash.com/photo-1605885898627-1121a2a1ff25?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" },
+
+    {
+      id: 17,
+      url:
+      "https://file-am-thanh.vercel.app/Mayday%20-%20TheFatRat_%20Laura%20Brehm.mp3",
+      author: "TheFatRat",
+      title: "Mayday",
+      cover:
+      "https://images.unsplash.com/photo-1605722997309-8f308fa11a69?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60" },
+      {
+        id: 18,
+      url:
+      "https://file-am-thanh.vercel.app/Solitude%20-%20TheFatRat_%20Slaydit.mp3",
+      author: "TheFatRat",
+      title: "Solitude",
+      cover:
+      "https://images.unsplash.com/photo-1605852967399-8e500bac048e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0MXx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60" },
+      {
+        id: 19,
+        url:
+        "https://file-am-thanh.vercel.app/Chosen%20-%20TheFatRat_%20Laura%20Brehm_%20Anna%20Yv.mp3",
+        author: "TheFatRat",
+        title: "Chosen",
+        cover:
+        "https://images.unsplash.com/photo-1601758124360-86f5a0432c42?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw0OHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60" }];
+
+
+
+
+
+
+
    
   
     let currentId = 0;
