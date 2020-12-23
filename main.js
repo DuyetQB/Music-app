@@ -3,11 +3,11 @@
     {
       id: 1,
       url:
-      "https://file-am-thanh.vercel.app/Rendezvous.mp3",
-      author: "DEAM",
-      title: "Rendezvous",
+      "https://file-am-thanh.vercel.app/Chung%20Ta%20Cua%20Hien%20Tai%20-%20Son%20Tung%20M-TP.mp3",
+      author: "MTP",
+      title: "Chúng ta của hiện tại ",
       cover:
-      "https://media.doisongvietnam.vn/u/rootimage/editor/2019/10/09/18/07/11570597652_5821.jpg"},
+      "https://images.unsplash.com/photo-1608643416250-b2768e7b5115?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"},
   
     {
       id: 2,
@@ -161,9 +161,15 @@
         author: "TheFatRat",
         title: "Chosen",
         cover:
-        "https://images.unsplash.com/photo-1601758124360-86f5a0432c42?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw0OHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60" }];
-
-
+        "https://images.unsplash.com/photo-1601758124360-86f5a0432c42?ixlib=rb-1.2.1&ixid=MXwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw0OHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60" },
+{
+        id: 20,
+        url:
+        "https://file-am-thanh.vercel.app/Rendezvous.mp3",
+        author: "DEAM",
+        title: "Rendezvous",
+        cover:
+        "https://media.doisongvietnam.vn/u/rootimage/editor/2019/10/09/18/07/11570597652_5821.jpg"}];
 
 
 
