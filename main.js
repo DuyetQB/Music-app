@@ -7,7 +7,7 @@
       author: "MTP",
       title: "Chúng ta của hiện tại ",
       cover:
-      "https://images.unsplash.com/photo-1608643416250-b2768e7b5115?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"},
+      "https://1.bp.blogspot.com/-wpE8kAroZl8/X-p8dYlTABI/AAAAAAAAJ8k/QWePuk9isy0PuPMxmweqCnajPlhEI8gagCNcBGAsYHQ/s787/132391052_223041176082901_5587329705790319564_n.png"},
   
     {
       id: 2,
